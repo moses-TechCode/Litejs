@@ -6,14 +6,9 @@ export class App{
   render() {
     return "";
   }
-  animetion(animetion) {
-    
-  }
-}
-//animetion
-export function animetion(){
   
 }
+
 export function mount(components, rootId) {
     const root = document.getElementById(rootId);
 
